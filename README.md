@@ -1,5 +1,5 @@
 # LipDiff
-This repo contains the code for an ICLR submission, a first-order SDP solver for the Lipschitz constant estimation of deep neural networks.
+This repo contains the code for an [ICLR publication](https://openreview.net/forum?id=dwzLn78jq7), a first-order SDP solver for the Lipschitz constant estimation of deep neural networks.
 
 ## Prerequisites
 You need Torch packages (torch and torchvision), cvxpy and mosek solver for this project.
