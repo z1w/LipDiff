@@ -35,8 +35,18 @@ A sample output can be:
 
 >The FO SDP gives: tensor(4.9786, device='cuda:0', dtype=torch.float64, grad_fn=<DivBackward0>) , which takes time 9.847759008407593
 
-
-
+## Citation
+If you want to cite this work, you might use the following bibtex:
+```
+@inproceedings{
+wang2024on,
+title={On the Scalability and Memory Efficiency of Semidefinite Programs  for Lipschitz Constant Estimation of Neural Networks},
+author={Zi Wang and Bin Hu and Aaron J Havens and Alexandre Araujo and Yang Zheng and Yudong Chen and Somesh Jha},
+booktitle={The Twelfth International Conference on Learning Representations},
+year={2024},
+url={https://openreview.net/forum?id=dwzLn78jq7}
+}
+```
 
 
 
